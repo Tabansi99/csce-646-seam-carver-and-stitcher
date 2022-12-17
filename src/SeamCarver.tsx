@@ -12,12 +12,12 @@ export const SeamCarver = () => {
   const [imageUrl, setImageUrl] = useState(defaultImgSrc);
   const [originalDimensions, setOriginalDimensions] = useState('')
   const [finalSize, setFinalSize] = useState<Size | null>(null)
-  const [widthInput, setWidthInput] = useState(0)
+  const [widthInput, setWidthInput] = useState(50)
   const [running, setRunning] = useState(false)
   const [done, setDone] = useState(false)
   const [seams, setSeams] = useState<Seam[] | null>(null);
   const [currImageSize, setCurrImageSize] = useState<Size | null>(null);
-  const [percentage, setPercentage] = useState<number>(50);
+  const [percentage, setPercentage] = useState<number>(0);
   const [energy, setEnergy] = useState<EnergyMap | null>(null);
   const [final, setFinal] = useState<string | null>(null)
   const [originalSize, setOriginalSize] = useState<Size | null>(null);
