@@ -17,7 +17,7 @@ export const SeamCarver = () => {
   const [done, setDone] = useState(false)
   const [seams, setSeams] = useState<Seam[] | null>(null);
   const [currImageSize, setCurrImageSize] = useState<Size | null>(null);
-  const [percentage, setPercentage] = useState<number>(0);
+  const [percentage, setPercentage] = useState<number>(50);
   const [energy, setEnergy] = useState<EnergyMap | null>(null);
   const [final, setFinal] = useState<string | null>(null)
   const [originalSize, setOriginalSize] = useState<Size | null>(null);
