@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/csce-646-seam-carver-and-stitcher/static/js/main.5b778ddc.js",
-    "static/js/787.c13bae08.chunk.js": "/csce-646-seam-carver-and-stitcher/static/js/787.c13bae08.chunk.js",
+    "main.js": "/csce-646-seam-carver-and-stitcher/static/js/main.df533902.js",
+    "static/js/787.78a6bfee.chunk.js": "/csce-646-seam-carver-and-stitcher/static/js/787.78a6bfee.chunk.js",
     "static/media/image_02.jpg": "/csce-646-seam-carver-and-stitcher/static/media/image_02.7a8318cfa89bd410be21.jpg",
     "static/media/face3_tilt.jpg": "/csce-646-seam-carver-and-stitcher/static/media/face3_tilt.1bc0c4c8eec0cba687fc.jpg",
     "static/media/face3.jpg": "/csce-646-seam-carver-and-stitcher/static/media/face3.d4505805ae28b93663e6.jpg",
     "index.html": "/csce-646-seam-carver-and-stitcher/index.html",
-    "main.5b778ddc.js.map": "/csce-646-seam-carver-and-stitcher/static/js/main.5b778ddc.js.map",
-    "787.c13bae08.chunk.js.map": "/csce-646-seam-carver-and-stitcher/static/js/787.c13bae08.chunk.js.map"
+    "main.df533902.js.map": "/csce-646-seam-carver-and-stitcher/static/js/main.df533902.js.map",
+    "787.78a6bfee.chunk.js.map": "/csce-646-seam-carver-and-stitcher/static/js/787.78a6bfee.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.5b778ddc.js"
+    "static/js/main.df533902.js"
   ]
 }
